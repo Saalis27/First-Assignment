@@ -1,7 +1,7 @@
 1. WHAT ARE YOUR MOTIVATIONS TOWARDS BIOINFORMATICS?
 
 
-
+The idea of coding and biology fascinates me and thus it motivated me to learn more about bioinformatics. 
 
 
 
@@ -10,3 +10,7 @@
 
 
 2. WHAT DO YOU EXPECT TO GAIN FROM THIS ASSOCIATION?
+
+- To improve my coding skills
+- To learn more about the importance of Bioinformatics 
+- To explore more in the field of life sciences with the help of bioinformatics. 
